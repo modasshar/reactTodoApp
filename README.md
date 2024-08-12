@@ -1,4 +1,4 @@
-# Todo App by React + Vite
+# Todo App by ( React + Vite )
 
 Tools used :- Reactjs
 
