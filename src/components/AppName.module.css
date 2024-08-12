@@ -1,0 +1,8 @@
+.todoHeading{
+    font-weight: 700;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
